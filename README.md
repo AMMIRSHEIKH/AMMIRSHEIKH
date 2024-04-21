@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hey there 
 <!-- <a href="https://www.instagram.com/ammirshiekh/">
-  <img align="left" alt="Shiekh Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Shiekh Instagram" width="100px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Shiekh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
