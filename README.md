@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hey there 
 <!-- <a href="https://www.instagram.com/ammirshiekh/">
-  <img align="left" alt="Shiekh Instagram" width="100px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Shiekh Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Shiekh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Shiekh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/waihheed">
-  <img align="left" alt="Shiekh LinkedIN" width="22px" src="https://media.licdn.com/dms/image/D4D03AQFj-2gPYrgvhw/profile-displayphoto-shrink_800_800/0/1689535718597?e=1719446400&v=beta&t=hiB3el44ONTFC5nbj5N55HLQG10ADsyH0nHQbYHr1eQ" />
+  <img align="left" alt="Shiekh LinkedIN" width="200px" src="https://media.licdn.com/dms/image/D4D03AQFj-2gPYrgvhw/profile-displayphoto-shrink_800_800/0/1689535718597?e=1719446400&v=beta&t=hiB3el44ONTFC5nbj5N55HLQG10ADsyH0nHQbYHr1eQ" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ammirsheikh)
