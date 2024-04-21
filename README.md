@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Shiekh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
 <a href="https://www.linkedin.com/in/waihheed">
-  <img align="left" alt="Shiekh LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Shiekh LinkedIN" width="22px" src="https://media.licdn.com/dms/image/D4D03AQFj-2gPYrgvhw/profile-displayphoto-shrink_800_800/0/1689535718597?e=1719446400&v=beta&t=hiB3el44ONTFC5nbj5N55HLQG10ADsyH0nHQbYHr1eQ" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ammirsheikh)
